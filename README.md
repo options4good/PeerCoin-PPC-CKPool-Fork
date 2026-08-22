@@ -1,6 +1,7 @@
 # PeerCoin-PPC-CKPool-Fork
 CKPool to solo mine PeerCoin (PPC)<br><br>
 I could not find a fork of CKPool that has the option to solo mine PPC, so I downloaded the original BTC version from BitBucket, modified some of the files in the src directory and made it work. You can download the original version from BitBucket, replace the src directory with this one, compile, configure and solo mine PPC.<br><br>
+The mining difficulty setting via stratum password field is also enabled in this fork. You can use for example: d=5000 that will be your mindiff and startdiff, or you can use md=5000 that will be your fixed difficulty level overwriting everything else.<br><br>
 Make sure to edit credentials in ckpool.conf file:<br><br>
 For the:<br><br>
 "blocksignkey" : "YOUR_GENERATED_PRIVATE_KEY_GOES_HERE"<br><br>
