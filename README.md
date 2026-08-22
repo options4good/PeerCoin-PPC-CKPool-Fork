@@ -4,6 +4,17 @@ I could not find a fork of CKPool that has the option to solo mine PPC, so I dow
 Make sure to edit credentials in ckpool.conf file:<br><br>
 For the:<br><br>
 "blocksignkey" : "YOUR_GENERATED_PRIVATE_KEY_GOES_HERE"<br><br>
-In your Linux Terminal type:<br><br>
-openssl rand -hex 32<br><br>
+In your Linux Terminal:<br><br>
+```bash
+openssl rand -hex 32
+```
 Copy and paste the output text (64 characters) between the quotation marks in blocksignkey value in the ckpool.conf file.
+<br>
+
+<h4>Donations are highly appreciated and can be made via crypto:</h4>
+<b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
+<b>DOGE</b> wallet address:&nbsp;&nbsp;DKZ9sv4VoTiQQdwi7VY25573UfpQqZJfYf<br>
+<b>LTC</b> wallet address:&nbsp;&nbsp;MJw3XHpR65Ec8rKEBthK5Dnvcy1CixYGTa<br>
+<b>BCH</b> wallet address:&nbsp;&nbsp;bitcoincash:qq66dg3vhczrqf4zy4kxje3c45vz47khsufsludxcc<br><br>
+Thank you.
+<br><br>
