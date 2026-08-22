@@ -9,8 +9,8 @@ In your Linux Terminal:<br>
 openssl rand -hex 32
 ```
 Copy and paste the output text (64 characters) between the quotation marks in blocksignkey value in the ckpool.conf file.
-<br>
-I am open to feedback and future requests to enhance the capability of this application. Please do not hesitate to write up an issue if you notice anything not working properly. Alternatively, you can reach out via Reddit: https://www.reddit.com/r/Options4Good/<br><br>
+<br><br>
+I am open to feedback and future requests to enhance the capability of this application. Please do not hesitate to write up an issue if you notice anything not working properly. Alternatively, you can reach out via Reddit: https://www.reddit.com/r/Options4Good/<br>
 <h4>Donations are highly appreciated and can be made via crypto:</h4>
 <b>DGB</b> wallet address:&nbsp;&nbsp;DEkZrJo1BHdiqnQq1XQSWGymEcDWGAWwZs<br>
 <b>DOGE</b> wallet address:&nbsp;&nbsp;DKZ9sv4VoTiQQdwi7VY25573UfpQqZJfYf<br>
